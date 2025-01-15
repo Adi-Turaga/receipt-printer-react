@@ -2,8 +2,11 @@
 h1 { text-align: center; font-size: 2.5rem; }
 
 body { 
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, Ubuntu;
-    background-color: #faf0e6;
+    /*font-family: system-ui, -apple-system, BlinkMacSystemFont, Ubuntu;*/
+    font-family: monospace;
+    /*background-color: #faf0e6;*/
+    background: rgb(250,240,230);
+    background: radial-gradient(circle, rgba(250,240,230,1) 59%, rgba(206,255,243,1) 96%, rgba(216,255,247,1) 100%);
 }
 
 .btns-panel {
